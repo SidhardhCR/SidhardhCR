@@ -66,7 +66,7 @@
 
 
 
-[instagram]: https://www.instagram.com/__sidhardh__c_r/
+[instagram]: https://www.instagram.com/_mr_.soul._minder_/
 [Facebook]: https://www.facebook.com/sidhardh.cr/
 [Spotify]: https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca
  
