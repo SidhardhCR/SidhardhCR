@@ -33,7 +33,7 @@
 ### Languages and Tools 🛠 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-%23CC6699?style=flat-square&logo=flutter&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+
 
 ![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=c&logoColor=%23ffffff)
