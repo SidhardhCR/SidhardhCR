@@ -2,8 +2,8 @@
 
 ## I'm a SIDHARDH CR
 
-- 👨‍💻 I’m doing my B.Tech from Ilahia College of Engg. , Mulavoor.
-- 📚 I'm doing app development with Flutter.
+- 👨‍💻 Graduated B.Tech from Ilahia College of Engg. , Mulavoor.
+- 📚 I'm doing Web development.
 - ⚡ Fun fact: I love to code.
 
 ---
